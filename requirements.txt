@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+pygraphviz
+pydot
+graphviz  # system package, install with 'brew install graphviz' or 'apt install graphviz' 

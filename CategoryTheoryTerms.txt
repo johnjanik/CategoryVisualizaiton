@@ -1,0 +1,285 @@
+### Classical Category Theory
+
+* **Abelian category**
+* **Additive category**
+* **Adjoint functor theorem**
+* **Adjunction** (unit, counit; left and right adjoints)
+* **Automorphism**
+* **Balanced category**
+* **Category** (small, large, locally small)
+* **Category of elements**
+* **Cauchy (Karoubi) completion**
+* **Comma category**
+* **Composition** (associativity, identity laws)
+* **Contravariant functor**
+* **Copower** (tensoring with a set or object)
+* **Copresheaf**
+* **Coproduct**
+* **Cosegment**
+* **Coslice category**
+* **Coequalizer**
+* **Coefficient** (in enriched/hyperdoctrine contexts)
+* **Coend**
+* **Coreflective subcategory**
+* **Coslice category**
+* **Covariant functor**
+* **Dinatural transformation**
+* **Dual category** (opposite category)
+* **End**
+* **Equalizer**
+* **Essentially surjective functor**
+* **Exact category**
+* **Factorization system** (Epi–Mono, etc.)
+* **Fully faithful functor**
+* **Functor** (covariant, contravariant)
+* **Functor category**
+* **Full functor**
+* **Grothendieck fibration**
+* **Grothendieck topology**
+* **Image** (regular image, categorical image)
+* **Initial object**
+* **Isomorphism**
+* **Kan extension** (left and right)
+* **Kernel**
+* **Lawvere theory**
+* **Limit** (inverse limit, pullback, etc.)
+* **Locally presentable category**
+* **Monomorphism**
+* **Multicategory**
+* **Natural transformation** (vertical/horizontal composition)
+* **Natural isomorphism**
+* **Nerve of a category**
+* **Opposite category**
+* **Power** (exponentials, internal homs)
+* **Preadditive category**
+* **Product**
+* **Pullback**
+* **Pushout**
+* **Reflective subcategory**
+* **Representable functor**
+* **Retract** (section/retraction)
+* **Slice category**
+* **Split exact sequence**
+* **Split monomorphism / split epimorphism**
+* **Subobject** (subobject classifier in a topos)
+* **Terminal object**
+* **Universal arrow / universal property**
+* **Weak limit / weak colimit**
+* **Zero object**
+* **Zero morphism**
+
+
+
+
+### Basic Higher Category Concepts
+
+* **∗Complicial set**
+* **Cellular set**
+* **Homotopy category**
+* n-category
+* ∞-category
+* Weak n-category
+* Strict n-category
+* Bicategory
+* Globular set
+* **Nerve of a category**
+* Quasicategory
+* Kan complex
+* Simplicial set
+* Complete Segal space
+* Segal category
+* Homotopy hypothesis
+
+### Types of Higher Categories
+
+* Cartesian closed category
+* Closed category
+* Compact closed category
+* Double category
+* Enriched category
+* Internal category
+* Monoidal category
+* Braided monoidal category
+* **Monoidal ∞-category**
+* **Omega-category (ω-category)**
+* Pivotal category
+* Fusion category
+* Modular tensor category
+* Symmetric monoidal category
+* Virtual double category
+
+### Morphisms & Cells
+
+* k-morphism
+* 2-morphism
+* Higher morphism
+* Globular k-cell
+* Icon
+* Lax natural transformation
+* Oplax natural transformation
+* Pseudonatural transformation
+* **Modification**
+* Equivalence in higher categories
+* Adjoint equivalence
+
+### Functors & Transformations
+
+* ∞-functor
+* Functor between bicategories
+* Homotopy coherent diagram
+* Lax functor
+* Oplax functor
+* Pseudofunctor
+* Transformation between ∞-functors
+* Natural isomorphism up to higher equivalence
+
+### Limits & Colimits
+
+* Homotopy colimit
+* Homotopy limit
+* ∞-categorical colimit
+* ∞-categorical limit
+* Weighted limit
+* Bicolimit
+* Flexible limit
+* Kan extension in higher categories
+* Lax limit
+* Pseudolimit
+* **End** (as a limiting construction)
+* **Bilimit**
+
+### Adjunctions & Duality
+
+* Adjunction in bicategories
+* Biadjunction
+* Lax adjunction
+* ∞-adjunction
+* Coend calculus
+* Dualizable object
+* Fully dualizable object
+* Serre duality
+* Verdier duality
+* **Grothendieck duality**
+
+### Monads & Algebras
+
+* Monad in a bicategory
+* Comonad
+* Eilenberg–Moore object
+* Kleisli object
+* Distributive law
+* Algebras for a monad
+* Coalgebras
+* Monadic functor
+* Barr–Beck theorem
+* **Lax algebra**
+* **Pseudo-monad**
+* **Pseudo-algebra**
+
+### Operads & Algebraic Structures
+
+* Operad
+* Multicategory
+* PROP
+* Lawvere theory
+* Topological operad
+* Symmetric operad
+* Cyclic operad
+* Modular operad
+* Algebra over an operad
+* Coalgebra over an operad
+* ∞-operad
+* Dendroidal set
+* **Colored operad**
+* **Properad**
+* **∞-properad**
+
+### Topology & Homotopy Theory
+
+* Classifying space
+* Delooping
+* Loop space
+* Loop space object
+* Mapping space
+* Fundamental ∞-groupoid
+* Homotopy fiber
+* Homotopy n-type
+* Homotopy quotient
+* Stabilization
+* Suspension
+
+### Model Structures
+
+* Model category
+* Simplicial model category
+* Quillen adjunction
+* Quillen equivalence
+* Fibration in model categories
+* Cofibration
+* Weak equivalence
+* Left Bousfield localization
+* Right Bousfield localization
+* Monoidal model category
+* Enriched model category
+* **Relative category**
+
+### Advanced Constructions
+
+* Yoneda embedding for ∞-categories
+* Grothendieck construction
+* Straightening and unstraightening
+* Factorization system
+* Orthogonal factorization system
+* Reflective subcategory
+* Coreflective subcategory
+* Exact ∞-category
+* Stable ∞-category
+* Presentable ∞-category
+* Accessible ∞-category
+* Topos
+* Higher topos
+* (∞,1)-topos
+* (∞,n)-category
+* Cobordism hypothesis
+* **Day convolution**
+* **Tannaka duality**
+* **Twisted arrow category**
+
+### Dimensional Enhancements
+
+* 2-category
+* 3-category
+* n-fold category
+* Iterated span category
+* Gray-category
+* Trimble n-category
+* Tamsamani n-category
+* Street nerve
+* Θ-space
+* Rezk completion
+* Homotopy coherent nerve
+* **ω-category**
+
+### Algebraic Geometry & Physics
+
+* Derived stack
+* Higher stack
+* Perfect stack
+* Geometric Langlands program
+* Topological field theory
+* Extended TQFT
+* Conformal field theory
+* Factorization algebra
+* Chiral algebra
+* Vertex operator algebra
+* Deformation quantization
+* Drinfeld center
+* Hochschild cohomology
+* Cyclic homology
+* **A∞-algebra**
+* **A∞-category**
+* **L∞-algebra**
+* **dg-category**
+* **Spectral category**
+* **Shifted symplectic structure**
+* **Factorization homology**
